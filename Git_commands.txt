@@ -1,0 +1,9 @@
+git clone
+git status
+git add
+git commit -m 'with message'
+1 file(s) changed insertions-no. of lines since the previous commit
+git push- adds code in repository 
+git pull- helpsto collaborate 
+git branch-creates, lists delete new branches
+git checkout-switches to other branchescommgit push

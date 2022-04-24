@@ -1,0 +1,7 @@
+plt.imread()
+plt.imshow(img, cmap='')
+arr.shape(axis)
+default-all
+0-red
+1-green
+2-blue
